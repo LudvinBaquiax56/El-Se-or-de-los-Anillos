@@ -5,6 +5,8 @@
  */
 package elseniordelosanillos;
 
+import Juego.Juego;
+
 /**
  *
  * @author baquiax
@@ -16,7 +18,7 @@ public class ElSeniorDeLosAnillos {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Hola mundo");
+        Juego juego = new Juego();
     }
     
 }
